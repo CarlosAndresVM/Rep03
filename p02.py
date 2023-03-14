@@ -1,2 +1,2 @@
 a=10
-print("sono qui")
+print("sono quix")
